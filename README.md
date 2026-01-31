@@ -41,7 +41,7 @@ I am constantly expanding my skillset to build more scalable, resilient, and hig
 
 **Current Focus:**
 *   **Event-Driven Architecture:** Messaging patterns with **Spring Cloud Stream**, **Apache Kafka**, and **RabbitMQ**.
-*   **Cloud Computing:** Designing and deploying cloud-native applications on **AWS**.
+*   **Cloud Computing:** Learning about the **AWS** ecosystem.
 
 **Upcoming Goals:**
 *   **Resilience Patterns:** Implementing fault tolerance with **Resilience4j** (Circuit Breakers, Retries, Fallbacks).
