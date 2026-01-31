@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="74" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100" />
 
 # Hi there, I'm Said Asaad!
 
