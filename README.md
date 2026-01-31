@@ -16,9 +16,9 @@ I thrive on solving logical challenges and designing architectures that are not 
 
 *   **Languages:** Java (17/21)
 *   **Core Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Hibernate
+      <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="200" />
 *   **Databases:** PostgreSQL, MySQL, H2 (SQL & Relational Database Design)
 *   **Testing:** JUnit 5, Mockito
-    <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="200" />
 *   **Observability:** Spring Actuator, Micrometer
 *   **Documentation:** SpringDoc OpenAPI (Swagger)
 *   **Tools & Libraries:** MapStruct, Lombok, Maven, Git
