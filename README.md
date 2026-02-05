@@ -11,20 +11,22 @@ I thrive on solving logical challenges and designing architectures that are not 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 *   **Languages:** Java (17/21)
-*   **Core Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Hibernate
+*   **Core Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Maven (Dependencies Management and Build Automation)
       <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="200" />
 *   **Databases:** PostgreSQL, MySQL, H2 (SQL & Relational Database Design)
 *   **Testing:** JUnit 5, Mockito
+*   **Security** Spring Security, JWT, OAuth2
 *   **Observability:** Spring Actuator, Micrometer
 *   **Documentation:** SpringDoc OpenAPI (Swagger)
-*   **Tools & Libraries:** MapStruct, Lombok, Maven, Git
+*   **Tools & Libraries:** MapStruct, Lombok, Git, SonarQube
 *   **DevOps:** Docker, Docker Compose
 *   **Architecture:** RESTful APIs, MVC, Layered Architecture, DTO Pattern
-*   **Related Skills:** Requirements Analysis, Logical Problem Solving, Clean Code
+*   **Related Skills:** Requirements Analysis, Logical Problem Solving, Clean Code, Git Flow
 
 
 ### What I Do
