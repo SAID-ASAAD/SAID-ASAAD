@@ -21,7 +21,7 @@ I thrive on solving logical challenges and designing architectures that are not 
 *   **Databases:** PostgreSQL, MySQL, H2 (SQL & Relational Database Design)
 *   **Testing:** JUnit 5, Mockito
 *   **Security** Spring Security, JWT, OAuth2
-*   **Observability:** Spring Actuator, Micrometer
+*   **Observability:** Spring Actuator, Micrometer, Prometheus, Grafana
 *   **Documentation:** SpringDoc OpenAPI (Swagger)
 *   **Tools & Libraries:** MapStruct, Lombok, Git, SonarQube
 *   **DevOps:** Docker, Docker Compose
