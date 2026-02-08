@@ -24,7 +24,7 @@ I thrive on solving logical challenges and designing architectures that are not 
 *   **Observability:** Spring Actuator, Micrometer, Prometheus, Grafana
 *   **Documentation:** SpringDoc OpenAPI (Swagger)
 *   **Tools & Libraries:** MapStruct, Lombok, Git, SonarQube
-*   **DevOps:** Docker, Docker Compose
+*   **DevOps:** Docker
 *   **Architecture:** RESTful APIs, MVC, Layered Architecture, DTO Pattern
 *   **Related Skills:** Requirements Analysis, Logical Problem Solving, Clean Code, Git Flow
 
