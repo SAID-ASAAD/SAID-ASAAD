@@ -2,7 +2,7 @@
 
 ### Backend Java Developer
 
-I am a passionate Backend Developer with a strong foundation in **Java** and the **Spring Boot** ecosystem. My focus is on building robust, scalable, and secure applications, transforming complex business requirements into well-structured, high-performance software solutions.
+I am a brazilian Backend Developer with a strong foundation in **Java** and the **Spring Boot** ecosystem. My focus is on building robust, scalable, and secure applications, transforming complex business requirements into well-structured, high-performance software solutions.
 
 I thrive on solving logical challenges and designing architectures that are not only functional but also maintainable and efficient.
 
